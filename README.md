@@ -1,3 +1,5 @@
+## About application
+
 This is a react application, it implement Pagination using Countries API
 
 ## Available Scripts
